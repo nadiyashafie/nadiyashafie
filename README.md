@@ -1,8 +1,8 @@
-<div align='center'>
-<h2> Hi, this is nadi :) 👋</h2>
-
-- 🌱 I’m interested in Machine Learning and Deep Learning.
-- 🐍 I work with Python and enjoy working on AI projects.
+<div>
+  <h2> &nbsp;&nbsp;&nbsp;&nbsp; Hi, this is nadi :) 👋</h2>
+  
+  - 🌱 I’m interested in Machine Learning and Deep Learning.
+  - 🐍 I work with Python and enjoy working on AI projects.
 </div>
 
 

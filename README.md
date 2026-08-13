@@ -1,4 +1,10 @@
-## Hi, this is nadi :) 👋
+<div align='center'>
+<h2> Hi, this is nadi :) 👋</h2>
+
+- 🌱 I’m interested in Machine Learning and Deep Learning.
+- 🐍 I work with Python and enjoy working on AI projects.
+</div>
+
 
 <!--
 **nadiyashafie/nadiyashafie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

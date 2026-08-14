@@ -5,7 +5,14 @@
   - 🐍 I work with Python and enjoy working on AI projects.<br><br>
  <h4> -  📫 connect with me:</h4>
 </div>
-<img src='/>
+<div>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/nadieh-shafie-550936373">
+    <img src="./linkedin.png" alt="LinkedIn" width="30px">
+  </a>&nbsp;&nbsp;
+  <a href="mailto:nadieh11.shafie@gmail.com">
+    <img src="./gmail.png" alt="Email" width="30px">
+  </a>
+</div>
 
 <!--
 **nadiyashafie/nadiyashafie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
